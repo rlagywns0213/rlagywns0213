@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hyojun's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/rlagywns0213/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlagywns0213)](https://github.com/anuraghazra/github-readme-stats)
+
 
   <div align=center>
 	
