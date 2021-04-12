@@ -5,6 +5,7 @@
 
 ## Interest
 - Machine learning
+- Feature embedding
 - NLP
 
 ## Tools & Languages
