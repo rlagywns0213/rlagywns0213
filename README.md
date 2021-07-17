@@ -1,7 +1,7 @@
-### 안녕하세요, 김효준입니다. 👋 
+### Hi, I'm Hyojun KIM. 👋 
 
 💬<br>
-현재 경희대학교 산업경영공학과 재학 중인 학생입니다.<br>
+If you want to contact me, please leave me a message.<br>
 
 ## Interest
 - Machine learning
